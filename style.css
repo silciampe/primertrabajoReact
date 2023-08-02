@@ -1,0 +1,29 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),                  
+    url("../../media/examples/lizard.png");
+}
+
+h1 {
+    font-family: 'Borel', cursive;
+    font-size: x-large;
+    width: 300px;
+    height: 300px;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),                  
+    url("../../media/examples/lizard.png");
+}
+
+.card {
+    padding: 50px;
+    margin: 50px;
+}
+
+.primera {
+    margin-left: 100px;
+}
